@@ -1,0 +1,23 @@
+body {
+      /* background: #C5C392; */
+      background: #C5C392;
+      color: white;
+      text-align: center;
+}
+
+h1 {
+  color: dimgrey;
+  font-size: 30pt;
+}
+
+a {
+  text-decoration: none;
+}
+.btn {
+  display: block;
+  color: darkgrey;
+  padding: 15px;
+  background: lightcyan;
+  margin: 15px;
+  box-shadow: 10px 10px lightgrey;
+}
